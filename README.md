@@ -7,7 +7,7 @@ Download
 
 Available via Gradle
 
-    com.mangablitz.api:blitzlibrary:1.0
+    compile 'com.mangablitz.api:blitzlibrary:1.0'
 
 License
 =======
