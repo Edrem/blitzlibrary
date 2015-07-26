@@ -2,6 +2,12 @@
 
 This is an Android Interface to allow other application code to interact with MangaBlitz.
 
+Download
+=======
+
+Available via Gradle
+    com.mangablitz.api:blitzlibrary:1.0
+
 License
 =======
     Copyright 2015 Joshua Bax
